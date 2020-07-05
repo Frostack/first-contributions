@@ -403,6 +403,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Katie Wilday](https://github.com/katiewilday)
 - [Blaize Guerra](https://github.com/guerrabl)
 - [Farooq Chawla](https://github.com/farooqhassanchawla)
+- [Shervin Saeedi](https://github.com/Shebeli)
 - [Thisuru Deesan 😋😎](https://github.com/Thisuru)
 - [Ssali Jonathan](https://github.com/jod35)
 - [Banobe Pascal](https://github.com/banobepascal)
