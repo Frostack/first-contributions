@@ -990,6 +990,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [tsuno](https://gitlab.com/tsuno)
 - [luytena](https://github.com/luytena)
 - [jkrajcir](https://github.com/jkrajcir)
+- [Shebeli](https://github.com/Shebeli)
 - [Nick Pounders](https://github.com/pounders82)
 - [Hunter Elofson](https://github.com/hunterelofson)
 - [Oliver Coley](https://github.com/mxoliver)
